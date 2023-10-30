@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Course-Rating
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: murali.shetty
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_311
+Implementation-URL: https://spring.io/projects/spring-boot/Course-Rati
+ ng
+Created-By: Maven Integration for Eclipse
+
